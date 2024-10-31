@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 882aa8e4de61c5e4098b4547aab788fb, type: 3}
+  m_Name: New Music Data
+  m_EditorClassIdentifier: 
+  length: 22
+  musicData:
+  - start: 1.4975868
+    end: 1.6960043
+    laneInGame: 0
+  - start: 2.141548
+    end: 2.3238025
+    laneInGame: 1
+  - start: 2.8138807
+    end: 3.386647
+    laneInGame: 4
+  - start: 3.7765427
+    end: 3.8829293
+    laneInGame: 1
+  - start: 4.311245
+    end: 4.4490843
+    laneInGame: 0
+  - start: 4.880308
+    end: 5.8675375
+    laneInGame: 4
+  - start: 6.3165607
+    end: 6.4345503
+    laneInGame: 7
+  - start: 6.8487864
+    end: 6.9998574
+    laneInGame: 5
+  - start: 7.35169
+    end: 7.6948853
+    laneInGame: 3
+  - start: 8.080715
+    end: 8.646278
+    laneInGame: 7
+  - start: 9.123656
+    end: 9.448796
+    laneInGame: 5
+  - start: 9.844893
+    end: 10.34934
+    laneInGame: 3
+  - start: 10.832911
+    end: 10.9988365
+    laneInGame: 8
+  - start: 11.468055
+    end: 11.628902
+    laneInGame: 0
+  - start: 12.020553
+    end: 12.142353
+    laneInGame: 1
+  - start: 12.638414
+    end: 12.768522
+    laneInGame: 3
+  - start: 13.251951
+    end: 13.390792
+    laneInGame: 0
+  - start: 13.882626
+    end: 14.060944
+    laneInGame: 1
+  - start: 14.422907
+    end: 14.553499
+    laneInGame: 2
+  - start: 14.979423
+    end: 15.112721
+    laneInGame: 2
+  - start: 15.606898
+    end: 15.731295
+    laneInGame: 5
+  - start: 16.121475
+    end: 16.603611
+    laneInGame: 4
+  - start: 16.958395
+    end: 17.077007
+    laneInGame: 2
+  - start: 17.534798
+    end: 17.71672
+    laneInGame: 4
+  - start: 18.202265
+    end: 18.511097
+    laneInGame: 3
